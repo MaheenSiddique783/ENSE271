@@ -1,7 +1,9 @@
-# 🍃 Charity Resource Hub
+ENSE271 LAB REPOSITORY
 
 ## 📝 Overview  
-The **Charity Resource Hub** is a centralized platform designed to support registered charities and non-profit organizations (NPOs) in Saskatchewan. Created in collaboration with the **South Saskatchewan Community Foundation (SSCF)**, it provides tools and resources to enhance operations and amplify community impact.
+ENSE 271 is centered around building user-friendly interfaces and experiences through the lens of people-centered design. This course covers the entire design process, from conceptualization and wireframing to high-fidelity prototyping and deployment.
+
+You’ll find interactive prototypes, sitemaps, wireframes, and website designs developed using tools like Figma, StoriesOnBoard, and WordPress.
 
 ----
 
@@ -16,27 +18,31 @@ The **Charity Resource Hub** is a centralized platform designed to support regis
 
 ----
 
-## 🎯 Objectives  
-1. Build a user-friendly hub for Saskatchewan charities to access localized resources.  
-2. Provide accessible and credible information to save time and effort for charities.  
-3. Support strategic growth, collaboration, and sustainable community impact.  
-
+##
+📚 Lab Topics
+Lab	Topic
+- Lab 1	GitHub, User Story Mapping with StoriesOnBoard
+- Lab 2	Asset Inventories and Sitemaps
+- Lab 3	Wireframes in Figma
+- Lab 4	High-Fidelity Prototypes in Figma
+- Lab 5	WordPress Environment Setup
+- Lab 6	WordPress Themes and Design
+- Lab 7	Portfolio Review
 ----
 
-## 🤝 Contributors  
-- **Maheen Siddique** (200480228)  
-- **Marc Aphlaon** (200516165)  
-- **Adai Yisah** (200365751)  
-
+## 🔥 Features
++ Interactive Prototypes: High-fidelity designs created in Figma.
++ User Story Mapping: Collaborative storyboards using StoriesOnBoard.
++ Website Development: Custom WordPress themes and designs.
++ Responsive Design: Mobile-first and cross-platform compatibility.
++ Portfolio Showcase: Final review and portfolio showcase for all lab work.
 ----
 
-## 🙌 Acknowledgments  
-This project is made possible through a collaboration between:  
-- 🌟 **South Saskatchewan Community Foundation (SSCF)**  
-- 🎓 **University of Regina - ENSE 271 Winter 2025**  
+## 🎓 Contributors
+Maheen Siddique (200480228)
+Adam Tilson - Lab Instructor
+University of Regina - ENSE 271 Course
 
-For more details, check out:  
-- [SSCF Website](https://sscf.ca/)  
-- [ENSE 271 Course Page](https://urcourses.uregina.ca/mod/page/view.php?id=2834765)  
+
 
 
