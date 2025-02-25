@@ -39,9 +39,9 @@ Lab	Topic
 ----
 
 ## 🎓 Contributors
-Maheen Siddique (200480228)
-Adam Tilson - Lab Instructor
-University of Regina - ENSE 271 Course
+* Maheen Siddique (200480228)
+* Adam Tilson - Lab Instructor
+* University of Regina - ENSE 271 Course
 
 
 
