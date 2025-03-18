@@ -20,7 +20,7 @@ You’ll find interactive prototypes, sitemaps, wireframes, and website designs 
 
 ##
 📚 Lab Topics
-Lab	Topic
+
 - Lab 1	GitHub, User Story Mapping with StoriesOnBoard
 - Lab 2	Asset Inventories and Sitemaps
 - Lab 3	Wireframes in Figma
