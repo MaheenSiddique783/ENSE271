@@ -35,7 +35,6 @@ Lab	Topic
 + User Story Mapping: Collaborative storyboards using StoriesOnBoard.
 + Website Development: Custom WordPress themes and designs.
 + Responsive Design: Mobile-first and cross-platform compatibility.
-+ Portfolio Showcase: Final review and portfolio showcase for all lab work.
 ----
 
 ## 🎓 Contributors
