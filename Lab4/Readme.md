@@ -1,15 +1,15 @@
 # Lab 4: Hi-Fi Prototypes with Figma
 
 ## Overview
-In this lab, the focus was on creating **interactive prototypes** using Figma's prototyping mode. This involved connecting wireframes, adding animations, and simulating navigation within a mobile application concept.
+In this lab, the focus was on creating **interactive prototypes** using Figma's prototyping mode. This involved connecting wireframes, adding animations, and simulating navigation within a mobile application concept. I made a virtual tour of Dhaka,Bangladesh, where visitors to the site can learn about 3 landmarks in and around Dhaka. 
 
 ## Project Description
-I created a **virtual tour** prototype for a fictional (or real-world) location. The interactive prototype includes:
+I made a virtual tour of Dhaka,Bangladesh, where visitors to the site can learn about 3 landmarks in and around Dhaka. The prototype includes: 
 - A Home Page
 - A working menu to access all pages
 - Three landmark pages, each showcasing a location with:
     - Images and text descriptions
-    - Unique interactions such as carousels, smart animate transitions, and draggable galleries.
+     - Interactions such as carousels, smart animate transitions, and draggable galleries.
 
 ## Files Included
 - **Prototype File**: `Lab4 ENSE271 (1).fig` – contains all prototype pages and animations.
